@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# JSON databases
+*.json
+
+# Exceções: manter arquivos de exemplo
+!pacientes.json
+!medicos.json
+!planos.json
+!consultas.json
+!pagamentos.json
+
+# Misc
+.DS_Store
+.env
